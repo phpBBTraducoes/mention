@@ -1,0 +1,10 @@
+Assunto: Você foi mencionado
+
+Olá,
+
+Você foi mencionado pelo "{USERNAME}" em "{TOPIC_TITLE}" no "{SITENAME}".
+
+Para visualizar a publicação, você foi mencionado em uso neste link:
+{U_LINK_TO_TOPIC}
+
+{EMAIL_SIG}
